@@ -1,5 +1,5 @@
 
-# Day 2: Planning the Technical Foundation
+# Technical Foundation
 ## Objective
 
 #### The focus of Day 2 is to lay the groundwork for the technical aspects of the project by documenting the system architecture, API specifications, and workflows. This ensures a clear and professional development process with well-defined guidelines for the team.
